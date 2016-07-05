@@ -24,7 +24,6 @@
 ## 中文化项目
 
 Open Source Society University提供整套的计算机科学需求课程以及培养计划，并致力于提供良好的计算机教学教育，对比国外的计算机自学教学项目，国内的项目明显捉襟见肘，因此需要一个完整的计算机学习体系，OSSU便提供了这样一个平台，由于几乎找不到OSSU的中文介绍，译者将原始的OSSU介绍文档与培养计划汉化，并将科目名称保留英文前提下补充常见的国内名称。希望可以辅助体系化的计算机学习。
-> 目前汉化工作尚未完成，希望可以添砖加瓦
 
 ---
 ## 关于
@@ -279,83 +278,19 @@ Fundamental Abilities，基本技能，学习我们课程所需的全部技能�
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
-## How to use this guide
+## 如何使用此向导
 
-### Order of the classes
+### 课程外的顺序列表
 
-This guide was developed to be consumed in a linear approach. What does this mean? That you should complete one course at a time.
+该课程组织为一个线性计划，意味着你每一次应当只完成一个课程，他们已经被安排好了恰当的顺序，因此直接从第一个课程开始吧，
 
-The courses are **already** in the order that you should complete them. Just start in the [Introduction to Computer Science](#introduction-to-computer-science) section and after finishing the first course, start the next one.
+### 需要上完所有课程？
 
-**If the course isn't open, do it anyway with the resources from the previous class.**
+**是的!** 该文件展示的即为你需要至少完成的所有课程
 
-### Should I take all courses?
+### 学习周期
 
-**Yes!** The intention is to conclude **all** the courses listed here!
-
-### Duration of the project
-
-It may take longer to complete all of the classes compared to a  regular CS course, but I can **guarantee** you that your **reward** will be proportional to **your motivation/dedication**!
-
-You must focus on your **habit**, and **forget** 关于 goals. Try to invest 1 ~ 2 hours **every day** studying this 课程. If you do this, **inevitably** you'll finish this 课程.
-
-> See more 关于 "Commit to a process, not a goal" [here](http://jamesclear.com/goals-systems).
-
-### Project Based
-
-Here in **OSS University**, you do **not** need to take exams, because we are focused on **real projects**!
-
-In order to show for everyone that you **successfully** finished a course, you should create a **real project**.
-
-> "What does it mean?"
-
-After finish a course, you should think 关于 a **real world problem** that you can solve using the acquired knowledge in the course. You don't need to create a big project, but you must create something to **validate** and **consolidate** your knowledge, and also to show to the world that you are capable to create something useful with the concepts that you learned.
-
-The projects of all students will be listed in [this](https://github.com/open-source-society/help/blob/master/PROJECTS.md) file. Submit your project's information in that file after you conclude it.
-
-**You can create this project alone or with other students!**
-
-#### Project Suggestions
-
-- [Projects](https://github.com/karan/Projects): A list of practical projects that anyone can solve in any programming language.
-- [app-specs](https://github.com/ericdouglas/app-specs): A curated list of applications specifications and implementations to practice new technologies, improve your portfolio and sharpen your skills.
-- [FreeCodeCamp](http://www.freecodecamp.com/): Course that teaches you fullstack JavaScript development through a bunch of projects.
-- [JavaScript Projects](https://github.com/javascript-society/javascript-projects): List of projects related with the [JavaScript Path](https://github.com/javascript-society/javascript-path).
-
-And you should also...
-
-### Be creative!
-
-This is a **crucial** part of your journey through all those courses.
-
-You **need** to have in mind that what you are able to **create** with the concepts that you learned will be your certificate **and this is what really matters**!
-
-In order to show that you **really** learned those things, you need to be **creative**!
-
-Here are some tips 关于 how you can do that:
-
-- **Articles**: create blog posts to synthesize/summarize what you learned.
-- **GitHub repository**: keep your course's files organized in a GH repository, so in that way other students can use it to study with your annotations.
-
-### Cooperative work
-
-**We love cooperative work**! Use our [channels](#社区) to communicate with other fellows to combine and create new projects!
-
-### Which programming languages should I use?
-
-My friend, here is the best part of liberty! You can use **any** language that you want to complete the courses.
-
-The **important** thing for each course is to **internalize** the **core concepts** and to be able to use them with whatever tool (programming language) that you wish.
-
-### Content Policy
-
-You must share **only** files that you are **allowed** to! **Do NOT disrespect the code of conduct** that you signed in the beginning of some courses.
-
-[Be creative](#be-creative) in order to show your progress! :smile:
-
-### Stay tuned
-
-[Watch](https://help.github.com/articles/watching-repositories/) this repository for futures improvements and general information.
+完成所有课程需要相当长的时间，试着每天投入一些时间，你将收获更多的经验与喜悦。
 
 ## 必要条件
 
@@ -370,6 +305,7 @@ You must share **only** files that you are **allowed** to! **Do NOT disrespect t
 ## 版本
 
 **课程版本**: `3.0.0`
+**汉化版本**: `0.8beta`
 
 
 ## 团队
