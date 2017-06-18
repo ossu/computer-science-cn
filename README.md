@@ -60,9 +60,12 @@
 ## 课程
 
 ---
-**课程版本**: `0.0.1dev` ([更新日志](CHANGELOG.md))
+**课程版本**: `0.1.1dev` ([更新日志](CHANGELOG.md))
 
 - [计算机科学导论](#计算机科学导论)
+- [核心课程](#核心课程)
+  - [编程基础](#编程基础)
+  - [数学](#数学)
 
 ---
 
@@ -77,6 +80,23 @@
 [大学计算机基础（选学）](http://www.icourse163.org/course/TONGJI-1001615008)| 12 周 | 3-5 小时每周
 [计算机专业导论](http://www.icourse163.org/course/HIT-437006)| 16 周 | 3-4 小时每周
 [计算机科学导论（搭建搜索引擎和社交网络）](https://cn.udacity.com/course/intro-to-computer-science--cs101) | 约12周 | 6小时每周
+
+### 核心课程
+
+以下课程是计算机技术与科学的核心内容,除注明外,其他为要求内容.
+
+#### 编程基础
+
+课程 | 总体时长 | 时间需求
+:-- | :--: | :--:
+
+#### 数学
+
+课程 | 总体时长 | 时间需求
+:-- | :--: | :--:
+[线性代数](http://www.icourse163.org/course/TONGJI-481001) | 16周 | 3-5小时每周
+[微积分1](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421145X_2015_2+sp/about) | 约10周 | 5小时每周
+[微积分2](http://www.xuetangx.com/courses/course-v1:Tsinghuax+10421065X_2015_T2+sp/about) | 约10周 | 5小时每周
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
