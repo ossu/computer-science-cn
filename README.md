@@ -68,10 +68,15 @@
 
 ### 计算机科学导论
 
+基于中国大陆的部分学生在进入大学时并不会熟悉地操作电脑，也不了解计算机的一些基本概念的现实条件，设置了*大学计算机基础*供他们选学。
+
+本单元的知识点：`计算机的基本操作` `算法初步` `编程的基本概念` `Python`
+
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
 [大学计算机基础（选学）](http://www.icourse163.org/course/TONGJI-1001615008)| 12 周 | 3-5 小时每周
 [计算机专业导论](http://www.icourse163.org/course/HIT-437006)| 16 周 | 3-4 小时每周
+[计算机科学导论（搭建搜索引擎和社交网络）](https://cn.udacity.com/course/intro-to-computer-science--cs101) | 约12周 | 6小时每周
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
