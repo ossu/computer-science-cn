@@ -89,6 +89,8 @@
 
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
+[C程序设计语言](http://www.icourse163.org/course/ZJU-9001#/info) | 14周 | 3-5小时每周
+[编程基础：学习面向对象编程方法](https://cn.udacity.com/course/programming-foundations-with-python--ud036) | 4周 | 5小时每周
 
 #### 数学
 
