@@ -60,7 +60,7 @@
 ## 课程
 
 ---
-**课程版本**: `0.1.1dev` ([更新日志](CHANGELOG.md))
+**课程版本**: `0.1.2dev` ([更新日志](CHANGELOG.md))
 
 - [计算机科学导论](#计算机科学导论)
 - [核心课程](#核心课程)
@@ -91,6 +91,10 @@
 :-- | :--: | :--:
 [C程序设计语言](http://www.icourse163.org/course/ZJU-9001#/info) | 14周 | 3-5小时每周
 [编程基础：学习面向对象编程方法](https://cn.udacity.com/course/programming-foundations-with-python--ud036) | 4周 | 5小时每周
+[数据结构-算法基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_p1+sp/about) | 约2周 | 6小时每周
+[数据结构(上)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about) | 约10周 | 6小时每周
+[数据结构(下)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_2X+sp/about) | 约11周 | 6小时每周
+[JAVA程序设计](http://www.icourse163.org/course/PKU-1001941004) | 19周 |  3-5小时每周
 
 #### 数学
 
