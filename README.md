@@ -60,12 +60,13 @@
 ## 课程
 
 ---
-**课程版本**: `0.1.2dev` ([更新日志](CHANGELOG.md))
+**课程版本**: `0.2.1dev` ([更新日志](CHANGELOG.md))
 
 - [计算机科学导论](#计算机科学导论)
 - [核心课程](#核心课程)
   - [编程基础](#编程基础)
   - [数学](#数学)
+  - [操作系统](#操作系统)
 
 ---
 
@@ -105,6 +106,12 @@
 [微积分2](http://www.xuetangx.com/courses/course-v1:Tsinghuax+10421065X_2015_T2+sp/about) | 约10周 | 5小时每周
 [概率论和数理统计](http://www.xuetangx.com/courses/course-v1:TsinghuaX+AP000003X+2017_T1/about) | 约10周 | 4小时每周
 [离散数学基础](http://mooc.study.163.com/course/SYSU-1000002018#/info) | 23周 | 2小时每周
+
+#### 操作系统
+
+课程 | 总体时长 | 时间需求
+:-- | :--: | :--:
+[操作系统](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240243X+sp/about) | 约15周 | 4-8小时每周
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
