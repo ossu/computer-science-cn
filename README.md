@@ -143,6 +143,9 @@
 
 ## 参考
 
+- [学堂在线](http://www.xuetangx.com/)
+- [中国大学MOOC](http://www.icourse163.org/)
+- [CNMOOC](http://www.cnmooc.org/home/index.mooc)
 - [Google - Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [Coursera](https://www.coursera.org/)
 - [edX](https://www.edx.org)
