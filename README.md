@@ -60,13 +60,14 @@
 ## 课程
 
 ---
-**课程版本**: `0.2.1dev` ([更新日志](CHANGELOG.md))
+**课程版本**: `0.3.1dev` ([更新日志](CHANGELOG.md))
 
 - [计算机科学导论](#计算机科学导论)
 - [核心课程](#核心课程)
   - [编程基础](#编程基础)
   - [数学](#数学)
-  - [操作系统](#操作系统)
+  - [操作系统与网络](#操作系统)
+  - [理论](#理论)
 
 ---
 
@@ -92,9 +93,6 @@
 :-- | :--: | :--:
 [C程序设计语言](http://www.icourse163.org/course/ZJU-9001#/info) | 14周 | 3-5小时每周
 [编程基础：学习面向对象编程方法](https://cn.udacity.com/course/programming-foundations-with-python--ud036) | 4周 | 5小时每周
-[数据结构-算法基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_p1+sp/about) | 约2周 | 6小时每周
-[数据结构(上)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about) | 约10周 | 6小时每周
-[数据结构(下)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_2X+sp/about) | 约11周 | 6小时每周
 [JAVA程序设计](http://www.icourse163.org/course/PKU-1001941004) | 19周 |  3-5小时每周
 
 #### 数学
@@ -107,11 +105,21 @@
 [概率论和数理统计](http://www.xuetangx.com/courses/course-v1:TsinghuaX+AP000003X+2017_T1/about) | 约10周 | 4小时每周
 [离散数学基础](http://mooc.study.163.com/course/SYSU-1000002018#/info) | 23周 | 2小时每周
 
-#### 操作系统
+#### 操作系统和网络
 
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
 [操作系统](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240243X+sp/about) | 约15周 | 4-8小时每周
+[计算机网络](http://www.icourse163.org/course/HIT-154005) | 13周 | 2-3小时每周
+
+#### 理论
+
+课程 | 总体时长 | 时间需求
+[数据结构-算法基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_p1+sp/about) | 约2周 | 6小时每周
+[数据结构(上)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about) | 约10周 | 6小时每周
+[数据结构(下)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_2X+sp/about) | 约11周 | 6小时每周
+[算法基础](https://www.coursera.org/learn/suanfa-jichu) | 11周 | 4-8小时每周
+[高级数据结构与算法](https://www.coursera.org/learn/gaoji-shuju-jiegou) | 9周 | 4-8小时每周
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
@@ -141,4 +149,4 @@
 - [Future Learn](https://www.futurelearn.com/)
 - [Stanford University](https://lagunita.stanford.edu/)
 - [MIT Open Courseware](http://ocw.mit.edu/courses/#electrical-engineering-and-computer-science)
-- [Obtaining a Thorough CS Background Online](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/)
+- [Obtaining a Thorough CS Background Online](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-onli)
