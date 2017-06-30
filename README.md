@@ -115,6 +115,7 @@
 #### 理论
 
 课程 | 总体时长 | 时间需求
+:-- | :--: | :--:
 [数据结构-算法基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_p1+sp/about) | 约2周 | 6小时每周
 [数据结构(上)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about) | 约10周 | 6小时每周
 [数据结构(下)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_2X+sp/about) | 约11周 | 6小时每周
