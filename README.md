@@ -139,7 +139,7 @@
 - **课程创始人**: [Eric Douglas](https://github.com/ericdouglas)
 - **课程维护者**: [Eric Douglas](https://github.com/ericdouglas) 和 [Zachary Wang](https://github.com/jimages)
 - **贡献者**: [贡献者列表](https://github.com/open-source-society/computer-science-cn/graphs/contributors)
-- **中文版译者**: [CherryMill](https://http://123.206.79.144/)
+- **中文版译者**: [CherryMill](https://github.com/CherryMill)
 
 ## 参考
 
