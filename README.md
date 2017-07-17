@@ -60,7 +60,7 @@
 ## 课程
 
 ---
-**课程版本**: `0.3.1dev` ([更新日志](CHANGELOG.md))
+**课程版本**: `0.4.1dev` ([更新日志](CHANGELOG.md))
 
 - [计算机科学导论](#计算机科学导论)
 - [核心课程](#核心课程)
@@ -69,6 +69,8 @@
   - [操作系统与网络](#操作系统)
   - [理论](#理论)
   - [应用](#应用)
+- [高级课程](#高级课程)
+  - [编程](#编程)
 
 ---
 
@@ -131,6 +133,18 @@
 :-- | :--: | :--:
 [数据库系统概论（基础篇）](http://www.icourse163.org/course/RUC-488001) | 8周 | 3-4小时每周
 [软件工程](http://www.xuetangx.com/courses/course-v1:TsinghuaX+34100325_X+sp/about) | 9周 | 4小时每周
+
+### 高级课程
+
+#### 编程
+
+该模块的部分课程内容暂时缺失：并行编程概念、软件调试
+
+课程 | 总体时长 | 时间需求
+:-- | :--: | :--:
+[编译原理](http://mooc.study.163.com/course/USTC-1000002001#/info) | 12周 | 3-5小时每周
+[软件测试](http://mooc.study.163.com/course/NJU-1000122000#/info) | 6周 | 4小时每周
+[软件测试方法和技术实践](http://mooc.study.163.com/course/Tongji-1000002019#/info) | 12周 | 3-4小时每周
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
