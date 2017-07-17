@@ -68,6 +68,7 @@
   - [数学](#数学)
   - [操作系统与网络](#操作系统)
   - [理论](#理论)
+  - [应用](#应用)
 
 ---
 
@@ -121,6 +122,15 @@
 [数据结构(下)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_2X+sp/about) | 约11周 | 6小时每周
 [算法基础](https://www.coursera.org/learn/suanfa-jichu) | 11周 | 4-8小时每周
 [高级数据结构与算法](https://www.coursera.org/learn/gaoji-shuju-jiegou) | 9周 | 4-8小时每周
+
+#### 应用
+
+该模块中的部分课程暂时缺失：密码学概论，图形学概论，机器学习
+
+课程 | 总体时长 | 时间需求
+:-- | :--: | :--:
+[数据库系统概论（基础篇）](http://www.icourse163.org/course/RUC-488001) | 8周 | 3-4小时每周
+[软件工程](http://www.xuetangx.com/courses/course-v1:TsinghuaX+34100325_X+sp/about) | 9周 | 4小时每周
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
