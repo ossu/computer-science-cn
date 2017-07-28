@@ -1,11 +1,11 @@
 # 计算机技术与科学 推荐阅读
 
-本文档收集了一些供本课程学习者**选择阅读**的优秀著作或者文章，一些可以免费获取，一些需要付费购买。这些著作或者文章被收集的原因是它们是涉及到本课程的优秀作品，或者对阅读者计算机素养提升有很大的帮助。
+本文档收集了一些供本课程学习者**选择阅读**的优秀著作。这些作品一些可以免费获取，一些需要付费购买。这些著作被收集是因为它们涉及到本课程内容，或者对阅读者的计算机素养提升有很大的帮助。
 
 - [编程](#编程)
-- [其他](#其他)
+- [其它](#其它)
 
-## 计算机编程
+## 编程
 
 名称 | 作者、译者 | 备注
 :-- | :--: | :--
@@ -17,4 +17,4 @@
 
 名称 | 作者、译者 | 备注
 :-- | :--: | :--
-[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) | Eric S. Raymond, Rick Moen | 此[中文译者](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/graphs/contributors)众多，再次不一一列出。
+[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md) | Eric S. Raymond, Rick Moen | 此[中文译者](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/graphs/contributors)众多，在此不一一列出。
