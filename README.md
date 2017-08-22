@@ -170,6 +170,7 @@
 - [学堂在线](http://www.xuetangx.com/)
 - [中国大学MOOC](http://www.icourse163.org/)
 - [CNMOOC](http://www.cnmooc.org/home/index.mooc)
+- [华文慕课](http://www.chinesemooc.org/)
 - [Google - Guide for Technical Development](https://www.google.cn/about/careers/students/guide-to-technical-development.html)
 - [Coursera](https://www.coursera.org/)
 - [edX](https://www.edx.org)
