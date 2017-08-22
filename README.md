@@ -106,7 +106,7 @@
 [微积分1](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421145X_2015_2+sp/about) | 约10周 | 5小时每周
 [微积分2](http://www.xuetangx.com/courses/course-v1:Tsinghuax+10421065X_2015_T2+sp/about) | 约10周 | 5小时每周
 [概率论和数理统计](http://www.xuetangx.com/courses/course-v1:TsinghuaX+AP000003X+2017_T1/about) | 约10周 | 4小时每周
-[离散数学基础](http://mooc.study.163.com/course/SYSU-1000002018#/info) | 23周 | 2小时每周
+[离散数学概论](https://www.coursera.org/learn/dmathgen) | 13周 | 3-4小时每周
 
 #### 操作系统和网络
 
