@@ -127,12 +127,14 @@
 
 #### 应用
 
-该模块中的部分课程暂时缺失：密码学概论，图形学概论，机器学习
+该模块中的部分课程暂时缺失：密码学概论
 
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
 [数据库系统概论（基础篇）](http://www.icourse163.org/course/RUC-488001) | 8周 | 3-4小时每周
 [软件工程](http://www.xuetangx.com/courses/course-v1:TsinghuaX+34100325_X+sp/about) | 9周 | 4小时每周
+[机器学习：基石（繁体中文）](https://www.coursera.org/learn/ntumlone-mathematicalfoundations) | 8周 | 约2小时每周
+[计算机图形学](http://www.icourse163.org/course/cau-45006) | 13周 | 3-4小时每周
 
 ### 高级课程
 
@@ -178,4 +180,4 @@
 - [Future Learn](https://www.futurelearn.com/)
 - [Stanford University](https://lagunita.stanford.edu/)
 - [MIT Open Courseware](http://ocw.mit.edu/courses/#electrical-engineering-and-computer-science)
-- [Obtaining a Thorough CS Background Online](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-onli)
+- [Obtaining a Thorough CS Background Online](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-onli)([参考译文](https://www.cnblogs.com/tangkikodo/p/5362071.html))
