@@ -6,6 +6,7 @@
 - [编程](#编程)
 - [数学](#数学)
 - [系统](#系统)
+- [理论](#理论)
 - [其它](#其它)
 
 ## 概论
@@ -39,6 +40,12 @@
 [计算机网络（第五版）](https://www.amazon.cn/dp/B007JFRQ0G/) | Andrew S. Tanenbaum, Davi J. Wetherall | 据评价印刷质量太差，选择时请确认
 [计算机网络](https://www.amazon.cn/dp/B01N0SKRLO/) | 谢希仁
 [计算机网络：自顶向下方法（第六版）](https://www.amazon.cn/图书/dp/B00OB1AODW) | 库罗斯 (James F.Kurose), 罗斯 (Keith W.Ross) , 陈鸣
+
+## 理论
+
+名称 | 作者、译者 | 备注
+:-- | :--: | :--
+[编译原理](https://www.amazon.cn/dp/B001NGO85I/) | Alfred V. Aho (作者),‎ Monica S.Lam (作者),‎ 赵建华 (译者),‎ 郑滔 (译者),‎ 戴新宇 (译者)
 
 ## 其它
 

@@ -60,13 +60,13 @@
 ## 课程
 
 ---
-**课程版本**: `0.5.1dev` ([更新日志](CHANGELOG.md))
+**课程版本**: `0.5.2dev` ([更新日志](CHANGELOG.md))
 
 - [计算机科学导论](#计算机科学导论)
 - [核心课程](#核心课程)
-  - [编程基础](#编程基础)
+  - [编程](#编程)
   - [数学](#数学)
-  - [操作系统与网络](#操作系统)
+  - [计算机系统](#计算机系统)
   - [理论](#理论)
   - [应用](#应用)
 - [高级课程](#高级课程)
@@ -92,7 +92,7 @@
 
 以下课程是计算机技术与科学的核心内容,除注明外,其他为要求内容.
 
-#### 编程基础
+#### 编程
 
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
@@ -109,17 +109,19 @@
 [微积分2](http://www.xuetangx.com/courses/course-v1:Tsinghuax+10421065X_2015_T2+sp/about) | 约10周 | 5小时每周
 [离散数学概论](https://www.coursera.org/learn/dmathgen) | 13周 | 3-4小时每周
 
-#### 操作系统和网络
+#### 计算机系统
 
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
 [操作系统](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240243X+sp/about) | 约15周 | 4-8小时每周
 [计算机网络](http://www.icourse163.org/course/HIT-154005) | 13周 | 2-3小时每周
+[计算机组成原理](http://www.icourse163.org/course/UESTC-1001543002) | 16周 | 4小时每周
 
 #### 理论
 
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
+[电工技术](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20220053X_2015_T2+sp/about) | 约10周 | 5小时每周
 [数据结构-算法基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_p1+sp/about) | 约2周 | 6小时每周
 [数据结构(上)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about) | 约10周 | 6小时每周
 [数据结构(下)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_2X+sp/about) | 约11周 | 6小时每周
@@ -132,6 +134,7 @@
 
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
+[信息安全概论](http://www.icourse163.org/course/CAU-251001) | 15周 | 4小时每周
 [数据库系统概论（基础篇）](http://www.icourse163.org/course/RUC-488001) | 8周 | 3-4小时每周
 [软件工程](http://www.xuetangx.com/courses/course-v1:TsinghuaX+34100325_X+sp/about) | 9周 | 4小时每周
 [机器学习：基石（繁体中文）](https://www.coursera.org/learn/ntumlone-mathematicalfoundations) | 8周 | 约2小时每周
@@ -160,6 +163,7 @@
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
 [数据挖掘：理论与算法](http://www.xuetangx.com/courses/course-v1:TsinghuaX+80240372X+sp/about) | 13周 | 6小时每周
+[大数据平台核心技术](http://www.xuetangx.com/courses/course-v1:TsinghuaX+60240202X+sp/about) | 约8周 | 4小时每周
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
