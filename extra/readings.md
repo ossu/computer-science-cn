@@ -21,6 +21,7 @@
 [线性代数及其应用(原书第4版)](https://www.amazon.cn/dp/B06XW3HZV7/) | 戴维 C.雷 (David C.Lay)、刘深泉、张万芹等 |
 [概率论与数理统计(第四版)](https://www.amazon.cn/图书/dp/B00Y7UVZHQ/) | 盛骤、谢式千、潘承毅 |
 [简明微积分](https://www.amazon.cn/简明微积分-龚昇/dp/B00114H1PQ/) | 龚昇 |
+[普林斯顿微积分读本(修订版)](https://www.amazon.cn/dp/B01M28M4G6) | 阿德里安·班纳(作者),‎ 杨爽 (译者),‎ 赵晓婷 (译者),‎ 高璞 (译者)
 
 ## 系统
 
