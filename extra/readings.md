@@ -48,11 +48,13 @@
 :-- | :--: | :--
 [编译原理](https://www.amazon.cn/dp/B001NGO85I/) | Alfred V. Aho (作者),‎ Monica S.Lam (作者),‎ 赵建华 (译者),‎ 郑滔 (译者),‎ 戴新宇 (译者)
 
-## 理论
+## 应用
 
 名称 | 作者、译者 | 备注
 :-- | :--: | :--
 [机器学习实战](https://www.amazon.cn/dp/B00D747PTK) | 哈林顿 (作者),‎ 李锐 (译者),‎ 李鹏 (译者),‎ 曲亚东 (译者),‎ 王斌 (译者)
+[机器学习](https://www.amazon.cn/dp/B01ARKEV1G) | 周志华
+[深度学习](https://www.amazon.cn/dp/B073LWHBBY) | 伊恩·古德费洛(作者),‎ 约书亚·本吉奥 (作者),‎ 亚伦·库维尔 (作者) 等
 
 ## 其它
 
