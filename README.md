@@ -104,8 +104,8 @@
 
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
-[线性代数](http://www.icourse163.org/course/TONGJI-481001) | 16周 | 3-5小时每周
 [微积分1](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421145X_2015_2+sp/about) | 约10周 | 5小时每周
+[线性代数](http://www.icourse163.org/course/TONGJI-481001) | 16周 | 3-5小时每周
 [微积分2](http://www.xuetangx.com/courses/course-v1:Tsinghuax+10421065X_2015_T2+sp/about) | 约10周 | 5小时每周
 [离散数学概论](https://www.coursera.org/learn/dmathgen) | 13周 | 3-4小时每周
 
