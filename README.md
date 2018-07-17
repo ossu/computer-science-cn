@@ -154,7 +154,7 @@
 
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
-[离散数学概论](https://www.coursera.org/learn/dmathgen) | 13周 | 3-4小时每周
+[离散数学](https://www.bilibili.com/video/av8020753?from=search&seid=8987236672693620051) | 13周 | 3-4小时每周
 [概率论和数理统计](http://www.xuetangx.com/courses/course-v1:TsinghuaX+AP000003X+2017_T1/about) | 约10周 | 4小时每周
 
 #### 高级应用
