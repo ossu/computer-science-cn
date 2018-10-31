@@ -28,7 +28,7 @@
 
 借助广泛的在线学习资源，该课程提供了**全面的计算机科学教育**。拥有着由世界范围内的共同学习者提供的社区支持，该课程不只针对寻求职业培训或者专业发展的人，而且针对需要从零开始构建成熟的计算机知识构架的人群，以及拥有自律、意愿以及良好习惯从而依靠自己来获得知识的人。
 
-除开非本专业的大学基础课程，本课程根据本科计算机技术与科学的学术课程要求设计。本课程假定学习者已经掌握了基础教育知识和其他非专业的大学基础知识。
+除开非本专业的大学基础课程，本课程根据本科计算机技术与科学的学术课程要求设计。本课程假定学习者已经掌握了中学基础教育知识和其他非专业的大学基础知识。
 
 本项目的中文课程来自国内外顶尖的大学和教育机构，比如清华大学，北京大学，麻省理工学院，哈佛大学等等，除此之外，本项目的课程必须满足以下条件：
 
@@ -51,7 +51,7 @@
 
 **学习周期** 完成所有课程需要相当长的时间，试着每天投入一些时间，你将收获更多的经验与喜悦。
 
-**学习成本** 本课程绝大部分的科目都可以免费获取，然而一些课程将会为你的证书或者课业项目收取费用。注意，Coursera 提供了[经济援助(英文页面)](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) 请根据你的时间或者预算来决定投入。注意，购买证书并不意味着你的课业一定会成功。
+**学习成本** 本课程绝大部分的科目都可以免费获取，然而一些课程将会为你的证书或者课业项目收取费用。注意，购买证书并不意味着你的课业一定会成功。
 
 **内容政策** 如果你打算公开分享你的课业成果，请注意你只能分享你被允许分享的文件。请不要违反每一个科目的规则。
 
@@ -80,12 +80,10 @@
 
 基于中国大陆的部分学生在进入大学时并不会熟悉地操作电脑，也不了解计算机的一些基本概念的现实条件，设置了*大学计算机基础*供他们选学。
 
-本单元的知识点：`计算机的基本操作` `算法初步` `编程的基本概念` `Python`
+本单元的知识点：`计算机的基本操作` `算法初步` `编程的基本概念` `Python入门`
 
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
-[大学计算机基础（选学）](http://www.icourse163.org/course/TONGJI-1001615008)| 12 周 | 3-5 小时每周
-[计算机专业导论](http://www.icourse163.org/course/HIT-437006)| 16 周 | 3-4 小时每周
 [计算机科学导论（搭建搜索引擎和社交网络）](https://cn.udacity.com/course/intro-to-computer-science--cs101) | 约12周 | 6小时每周
 
 ### 核心课程
@@ -96,17 +94,18 @@
 
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
-[C程序设计语言](http://www.icourse163.org/course/ZJU-9001#/info) | 14周 | 3-5小时每周
+[C程序设计语言(上)](http://www.xuetangx.com/courses/course-v1:BIT+100070018+2018_T1/about) | 约10周 | 2-3小时每周
+[C程序设计语言(下)](http://www.xuetangx.com/courses/course-v1:BIT+100070018+2018_T2/about) | 约10周 | 2-3小时每周
 [编程基础：学习面向对象编程方法](https://cn.udacity.com/course/programming-foundations-with-python--ud036) | 4周 | 5小时每周
-[JAVA程序设计](http://www.icourse163.org/course/PKU-1001941004) | 19周 |  3-5小时每周
 
 #### 数学
 
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
-[微积分1](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421145X_2015_2+sp/about) | 约10周 | 5小时每周
-[线性代数](http://www.icourse163.org/course/TONGJI-481001) | 16周 | 3-5小时每周
-[微积分2](http://www.xuetangx.com/courses/course-v1:Tsinghuax+10421065X_2015_T2+sp/about) | 约10周 | 5小时每周
+[微积分B1](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421075X_2015_2+sp/about) | 约10周 | 5小时每周
+[线性代数1](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421094X+2018_T2/about) | 约11周 | 8小时每周
+[线性代数2](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421094X+2018_T2/about) | 约11周 | 8小时每周
+[微积分B2](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421084X_2015_2+sp/about) | 约10周 | 5小时每周
 
 #### 计算机系统
 
@@ -155,7 +154,7 @@
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
 [离散数学](https://www.bilibili.com/video/av8020753?from=search&seid=8987236672693620051) | 13周 | 3-4小时每周
-[概率论和数理统计](http://www.xuetangx.com/courses/course-v1:TsinghuaX+AP000003X+2017_T1/about) | 约10周 | 4小时每周
+[概率论和数理统计](http://www.xuetangx.com/courses/course-v1:TsinghuaX+AP000003X+2018_T2/about) | 约10周 | 4小时每周
 
 #### 高级应用
 
