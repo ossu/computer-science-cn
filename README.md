@@ -60,7 +60,7 @@
 ## 课程
 
 ---
-**课程版本**: `0.5.2dev` ([更新日志](CHANGELOG.md))
+**课程版本**: `0.5.3dev` ([更新日志](CHANGELOG.md))
 
 - [计算机科学导论](#计算机科学导论)
 - [核心课程](#核心课程)
@@ -119,8 +119,6 @@
 
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
-[电工技术](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20220053X_2015_T2+sp/about) | 约10周 | 5小时每周
-[数据结构-算法基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_p1+sp/about) | 约2周 | 6小时每周
 [数据结构(上)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about) | 约10周 | 6小时每周
 [数据结构(下)](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_2X+sp/about) | 约11周 | 6小时每周
 [算法基础](https://www.coursera.org/learn/suanfa-jichu) | 11周 | 4-8小时每周
@@ -146,8 +144,8 @@
 
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
-[编译原理](http://mooc.study.163.com/course/USTC-1000002001#/info) | 12周 | 3-5小时每周
-[软件测试方法和技术实践](http://mooc.study.163.com/course/Tongji-1000002019#/info) | 12周 | 3-4小时每周
+[编译原理](http://www.xuetangx.com/courses/course-v1:XIYOU+20180208+2018_T2/about) | 12周 | 3-5小时每周
+[软件测试方法和技术实践](http://mooc.study.163.com/course/Tongji-1000002019#/info) | 12周 | 3小时每周
 
 #### 高级数学
 
