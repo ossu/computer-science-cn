@@ -94,18 +94,15 @@
 
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
-[C程序设计语言(上)](http://www.xuetangx.com/courses/course-v1:BIT+100070018+2018_T1/about) | 约10周 | 2-3小时每周
-[C程序设计语言(下)](http://www.xuetangx.com/courses/course-v1:BIT+100070018+2018_T2/about) | 约10周 | 2-3小时每周
+[程序设计入门——C语言](https://www.icourse163.org/course/ZJU-199001?tid=1467021443) | 约10周 | 4-6小时每周
 [编程基础：学习面向对象编程方法](https://cn.udacity.com/course/programming-foundations-with-python--ud036) | 4周 | 5小时每周
 
 #### 数学
 
 课程 | 总体时长 | 时间需求
 :-- | :--: | :--:
-[微积分B1](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421075X_2015_2+sp/about) | 约10周 | 5小时每周
-[线性代数1](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421094X+2018_T2/about) | 约11周 | 8小时每周
-[线性代数2](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421094X+2018_T2/about) | 约11周 | 8小时每周
-[微积分B2](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421084X_2015_2+sp/about) | 约10周 | 5小时每周
+[高等数学-乐经良](https://www.bilibili.com/video/BV1aY4y137fr/) | 约10周 | 5小时每周
+[线性代数-宋浩](https://www.bilibili.com/video/BV1aW411Q7x1/) | 约11周 | 8小时每周
 
 #### 计算机系统
 
